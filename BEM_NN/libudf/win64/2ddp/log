@@ -1,0 +1,5 @@
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 16.00.40219.01 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+NMAKE :  U1077: '"C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\cl.EXE"' : return code '0x2'
+Stop.
